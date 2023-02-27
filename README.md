@@ -27,6 +27,10 @@ This backend includes the following features:
 
 This backend is designed to be used in conjunction with a frontend application that consumes its API. 
 
+##ERD
+
+![ERD-radio](https://user-images.githubusercontent.com/31547587/221659011-2899d003-8a25-4712-98cb-61cbf3d05425.png)
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow these steps:
